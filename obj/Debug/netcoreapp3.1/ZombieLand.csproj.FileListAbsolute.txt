@@ -1,0 +1,13 @@
+C:\Users\chase\Desktop\zombies files\ZombieLand\bin\Debug\netcoreapp3.1\ZombieLand.exe
+C:\Users\chase\Desktop\zombies files\ZombieLand\bin\Debug\netcoreapp3.1\ZombieLand.deps.json
+C:\Users\chase\Desktop\zombies files\ZombieLand\bin\Debug\netcoreapp3.1\ZombieLand.runtimeconfig.json
+C:\Users\chase\Desktop\zombies files\ZombieLand\bin\Debug\netcoreapp3.1\ZombieLand.runtimeconfig.dev.json
+C:\Users\chase\Desktop\zombies files\ZombieLand\bin\Debug\netcoreapp3.1\ZombieLand.dll
+C:\Users\chase\Desktop\zombies files\ZombieLand\bin\Debug\netcoreapp3.1\ZombieLand.pdb
+C:\Users\chase\Desktop\zombies files\ZombieLand\obj\Debug\netcoreapp3.1\ZombieLand.csprojAssemblyReference.cache
+C:\Users\chase\Desktop\zombies files\ZombieLand\obj\Debug\netcoreapp3.1\ZombieLand.AssemblyInfoInputs.cache
+C:\Users\chase\Desktop\zombies files\ZombieLand\obj\Debug\netcoreapp3.1\ZombieLand.AssemblyInfo.cs
+C:\Users\chase\Desktop\zombies files\ZombieLand\obj\Debug\netcoreapp3.1\ZombieLand.csproj.CoreCompileInputs.cache
+C:\Users\chase\Desktop\zombies files\ZombieLand\obj\Debug\netcoreapp3.1\ZombieLand.dll
+C:\Users\chase\Desktop\zombies files\ZombieLand\obj\Debug\netcoreapp3.1\ZombieLand.pdb
+C:\Users\chase\Desktop\zombies files\ZombieLand\obj\Debug\netcoreapp3.1\ZombieLand.genruntimeconfig.cache
