@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chase\\Desktop\\zombies files\\ZombieLand\\ZombieLand.csproj": {}
+    "C:\\Users\\chase\\Desktop\\zombieGitFiles\\ZombieLand\\ZombieLand.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chase\\Desktop\\zombies files\\ZombieLand\\ZombieLand.csproj": {
+    "C:\\Users\\chase\\Desktop\\zombieGitFiles\\ZombieLand\\ZombieLand.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chase\\Desktop\\zombies files\\ZombieLand\\ZombieLand.csproj",
+        "projectUniqueName": "C:\\Users\\chase\\Desktop\\zombieGitFiles\\ZombieLand\\ZombieLand.csproj",
         "projectName": "ZombieLand",
-        "projectPath": "C:\\Users\\chase\\Desktop\\zombies files\\ZombieLand\\ZombieLand.csproj",
+        "projectPath": "C:\\Users\\chase\\Desktop\\zombieGitFiles\\ZombieLand\\ZombieLand.csproj",
         "packagesPath": "C:\\Users\\chase\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chase\\Desktop\\zombies files\\ZombieLand\\obj\\",
+        "outputPath": "C:\\Users\\chase\\Desktop\\zombieGitFiles\\ZombieLand\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chase\\AppData\\Roaming\\NuGet\\NuGet.Config",

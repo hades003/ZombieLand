@@ -116,6 +116,11 @@ namespace ZombieLand
             return rightShin;
         }
 
+        public char getLeftSholder() 
+        {
+            return leftSholder;
+        }
+
         //these are all of the set methods
         public void setEyes(char set) 
         {
