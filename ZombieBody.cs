@@ -18,7 +18,7 @@ namespace ZombieLand
         public void deter(int dtr)
         {
             Random qwe = new Random();
-            int trueDet = qwe.Next(dtr);
+            int trueDet = qwe.Next(dtr + 1);
 
             int targets;
             bool control;
@@ -374,7 +374,7 @@ namespace ZombieLand
                     }
                 }
             }
-            checkDamage();
+            updateDamage();
         }
     }
 }

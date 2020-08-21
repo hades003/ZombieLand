@@ -374,5 +374,25 @@ namespace ZombieLand
 
             preception = pre1 + pre2;
         }
+
+        public void printStatus() 
+        {
+            Console.WriteLine("Zombie Info");
+            if (alive)
+            {
+                Console.WriteLine(name + ", alive");
+            }
+            else 
+            {
+                Console.WriteLine(name + ", dead");
+            }
+            Console.WriteLine("Pre: " + preception + "  Spd: " + speed);
+            Console.WriteLine("Brn: " + brain + "   Eye: " + eyes + "   Ear: " + ears);
+            Console.WriteLine("Hrt: " + heart + "   Lng: " + lungs + "  Gut: " + guts);
+            Console.WriteLine("LShd: " + leftSholder + "    LElb: " + leftElbow + "     LFor: " + leftForearm);
+            Console.WriteLine("RShd: " + rightSholder + "   RElb: " + rightElbow + "    RFor: " + rightForearm);
+            Console.WriteLine("LThi: " + leftThigh + "   LKne: " + leftKnee + "    LShn: " + leftShin);
+            Console.WriteLine("RThi: " + rightThigh + "    RKne: " + rightKnee + "    RShn: " + rightShin);
+        }
     }
 }
