@@ -26,6 +26,11 @@ namespace ZombieLand
             name = set;
         }
 
+        public String getName() 
+        {
+            return name;
+        }
+
         //head organs
         private char brain = 'f';
         private char eyes = 'f';
@@ -377,7 +382,6 @@ namespace ZombieLand
 
         public void printStatus() 
         {
-            Console.WriteLine("Zombie Info");
             if (alive)
             {
                 Console.WriteLine(name + ", alive");

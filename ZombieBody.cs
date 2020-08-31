@@ -8,7 +8,7 @@ namespace ZombieLand
     {
         public ZombieBody(String nm, int det)
         {
-            setName(nm);
+            setName(nm + ", the zombie");
             deter(det);
         }
 

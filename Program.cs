@@ -8,8 +8,9 @@ namespace ZombieLand
     {
         static void Main(string[] args)
         {
-            ZombieBody chuck = new ZombieBody("chuck",17);
-            chuck.printStatus();
+            Player me = new Player();
+            me.createCharacter(); 
+
             Console.ReadKey();
         }
     }
